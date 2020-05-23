@@ -1,5 +1,5 @@
 # raspi-thermal-car
-Remote-control rock crawling car for object detection
+Remote control rock crawling car for object detection
 
 Hardware used on the project:
 1. Raspberry Pi 3 B+ 16gb micro sd card
